@@ -3,11 +3,11 @@ Team: Elijah Ramsey, Taylor Sperry, Farhad Siraj, Robbie Hanson, Ana Tivadar, Ch
 
 Track: Watsonx.data (Track 4)     
 
-Utilizing: OpenCV, Scikit-learn, Watsonx Jupyter notebook, fill in more here    
+Utilizing: OpenCV, Scikit-learn, Watsonx Jupyter notebook, Watsonx Natural Language Foundational Model    
 
 Data: [Reef Renewal USA](https://reefrenewalusa.org)
 
-<img src="ReadMe photos/18-Figure1.3-1.png" alt="Alt text" title="Bleaching">
+<img src="ReadMe photos/18-Figure1.3-1.png" alt="Alt text" title="Bleaching" width="700" height="500">
  
 # Overview 
 Just this month, Manatee Bay in the Florida Keys recorded an ocean temp of an astonishing 101.1°. No sensor has ever recorded a temperature of 101° anywhere in the world's oceans. 
