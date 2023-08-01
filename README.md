@@ -7,7 +7,7 @@ Utilizing: OpenCV, Scikit-learn, Watsonx Jupyter notebook, fill in more here
 
 Data: [Reef Renewal USA](https://reefrenewalusa.org)
 
-
+<img src="ReadMe photos/staghorn-nursery-tree-salt-river-stx_noaa_472.jpg" alt="Alt text" title="Optional title">
  
 # Overview 
 Just this month, Manatee Bay in the Florida Keys recorded an ocean temp of an astonishing 101.1°. No sensor has ever recorded a temperature of 101° anywhere in the world's oceans. 
