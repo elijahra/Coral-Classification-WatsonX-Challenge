@@ -7,7 +7,7 @@ Utilizing: OpenCV, Scikit-learn, Watsonx Jupyter notebook, fill in more here
 
 Data: [Reef Renewal USA](https://reefrenewalusa.org)
 
-<img src="ReadMe photos/staghorn-nursery-tree-salt-river-stx_noaa_472.jpg" alt="Alt text" title="Optional title">
+<img src="ReadMe photos/18-Figure1.3-1.png" alt="Alt text" title="Bleaching">
  
 # Overview 
 Just this month, Manatee Bay in the Florida Keys recorded an ocean temp of an astonishing 101.1°. No sensor has ever recorded a temperature of 101° anywhere in the world's oceans. 
@@ -16,6 +16,7 @@ The effects of rising ocean temperatures have caused coral bleaching events all 
 
 Reef Renewal is an organization based in the Florida Keys who are trying to restore the coral population by growing thousands of fragments in underwater nurseries and outplanting healthy corals into the dying reefs. 
 
+<img src="ReadMe photos/staghorn-nursery-tree-salt-river-stx_noaa_472.jpg" alt="Alt text" title="Nursery">
 # Our Goal
 Help Reef Renewal create a data pipeline that monitors newly outplanted corals and predicts the health of the reefs. After the data is analyzed, a report needs to be generated in order to recieve government grants to continue funding their work. This report contains coral area cover, coral species and coral health.  
 
