@@ -27,6 +27,7 @@ Our solution contains 2 parts: an image classification ML model followed by an a
 # Part 1: Image Classification
 Using OpenCV, Reef Renewal's photos will be used to label coral species, specifically Staghorn and Elkhorn corals. Then, this data will be used to train a model in [TBD]. The model will then be able to analyze how much coral of each species was outplanted and potentially predict the health of the reef. 
 
+<img src="ReadMe photos/G0027399.JPG " alt="Alt text" title="Classification Species">
 
 # Part 2: Report Generation
 From the data analysis phase done by the model, the results will be used to generate a report used to get grants from the government. Using Watsonx (fill in more details), a sample report will be automatically generated using the results of the previous model. 
