@@ -1,5 +1,5 @@
 # Coral-Classification-WatsonX-Challenge
-Team: Elijah Ramsey, Taylor Sperry, Farhad Siraj, Robbie Hanson, Ana Tivadar, Chase Brock, Liam Atkins, Meegan Conrad, Stephen Smigelsky, Sean Knipe    
+Team: Elijah Ramsey, Taylor Sperry, Farhad Siraj   
 
 Track: Watsonx.data (Track 4)     
 
